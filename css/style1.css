@@ -1,0 +1,17 @@
+
+   html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: azure;
+}
+
+.navbar{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.navbar-nav{
+    margin-left: 180px;
+}

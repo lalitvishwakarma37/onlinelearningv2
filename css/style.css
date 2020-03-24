@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  font-size: 20px;
+}
+
+body{
+  background-color: blanchedalmond;
+}
+
+#card1, #card2, #card3{
+  background-color: #0002;
+  box-shadow: 0 2px 25px rgba(0, 0, 0, .5);
+  text-transform: 0 20x 5px rgba(0,0,0,.5);
+
+}
